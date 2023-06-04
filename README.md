@@ -11,6 +11,6 @@
  
  ## Install
 
-// Just start the script
+// Just start the script and target a computer with IP,name or MAC address
 
 
