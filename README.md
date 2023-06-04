@@ -11,6 +11,12 @@
  
  ## Install
 
-// Just start the script and target a computer with IP,name or MAC address
+// Background & Icon
+
+Create an Images folder and add your personal background and icon
+
+// Target a computer
+
+Just start the PowerShell GUI script and insert an IP,name or MAC address
 
 
