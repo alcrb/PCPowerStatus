@@ -1,5 +1,3 @@
-# PCPowerStatus
-
 ## Features
 
 - Shutdown
